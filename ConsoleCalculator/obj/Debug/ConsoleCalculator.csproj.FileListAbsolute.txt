@@ -1,7 +1,0 @@
-D:\Troelsen\repos\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe.config
-D:\Troelsen\repos\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe
-D:\Troelsen\repos\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.pdb
-D:\Troelsen\repos\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.csproj.AssemblyReference.cache
-D:\Troelsen\repos\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.csproj.CoreCompileInputs.cache
-D:\Troelsen\repos\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.exe
-D:\Troelsen\repos\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.pdb
